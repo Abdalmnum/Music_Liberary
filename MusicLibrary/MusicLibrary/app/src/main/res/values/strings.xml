@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicLibrary</string>
+    <string name="song">Songs</string>
+    <string name="albums">Albums</string>
+    <string name="favourite">Favourite</string>
+    <string name="about">About</string>
+    <string name="this_albums_in_our_app">This Albums IN our App</string>
+    <string name="add">ADD</string>
+    <string name="next">Next</string>
+</resources>
